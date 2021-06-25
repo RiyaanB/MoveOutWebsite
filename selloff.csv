@@ -26,22 +26,22 @@ id,item,selling
 24,Plush Bath Rug 2,$10
 25,Under the Sink Dustbin,$30
 26,(sold) Shoe Rack with Cushion,$30
-27,Side Table 1,$15
-28,Side Table 2,$15
+27,(sold) Side Table 1,$15
+28,(sold) Side Table 2,$15
 29,Bar Stool 1,$15
 30,Bar Stool 2,$15
 31,(sold) Lamp with Shelves,$15
 32,Closet Shelf,$15
 33,Smart Wifi Plugs x2 (Alexa/Google),$15
 35,Conair Hairdryer (new),$15
-36,Wooden Shoe Rack,$15
+36,(sold) Wooden Shoe Rack,$15
 37,Simple Armless Chair,$15
 38,(sold) Knife Set,$25
 39,Pots and Pans,$25
 40,Shelf with Compartments,$20
 41,Regular Pillows x2,$10
 44,Big Pillows x2,$10
-42,Canvas Mountain Wall Art,$10
+42,(sold) Canvas Mountain Wall Art,$10
 43,Remote Control RGB Lights,$10
 45,Hangers x30,$10
 46,Floor Lamp 1,$5
@@ -49,7 +49,7 @@ id,item,selling
 116,(sold) Wine and Beer Glasses,$10
 48,Cracking the Coding Interview Book,$10
 49,(sold) Scented Candles x6,$10
-50,Power Extension 1,$5
+50,(sold) Power Extension 1,$5
 51,Power Extension 2,$5
 52,Bulbs x4,$15
 53,(sold) Whiteboard + Markers,$15
@@ -64,7 +64,7 @@ id,item,selling
 61,Digital Clock,$5
 63,Portable Lamp,$5
 64,Digital Weighing Scale,$5
-66,Mirrors x3,$5
+66,Mirrors x2,$5
 67,Plastic Drawer Chest,$5
 68,Toilet Rug,$5
 69,(sold) Shower Curtain + Hooks,$8
@@ -105,13 +105,13 @@ id,item,selling
 102,(sold) Cleaning Broom,$2
 103,(sold) Paper Towel Stand,$3
 104,Peeler,$3
-105,Broomstick + dustpan,$4
-106,Coasters,$3
+105,(sold) Broomstick + dustpan,$4
+106,(sold) Coasters,$3
 107,(sold) Garlic Press,$2
 108,Strainers x2,$2
 109,Plush Pillow,$1
 110,Pens/Pencil,$1
-111,(one left) Olive Oil Bottle,$1
+111,(sold) Olive Oil Bottle,$1
 112,Corkscrew,$2
 113,Tall Cups,$1
 114,Measuring Cups,$1
