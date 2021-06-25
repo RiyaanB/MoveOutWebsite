@@ -15,3 +15,25 @@ with open('selloff.csv') as csv_file:
             line_count += 1
     print(f'Processed {line_count} lines.')
 
+file = open("index_template.html", "r")
+index_html = file.read()
+file.close()
+
+file = open("item_div.html", "r")
+item_div_html = file.read()
+file.close()
+
+
+items = ""
+
+for row in rows:
+    item = item_div_html.format(row[0], row[0], row[1], row[2])
+    items += item + "\n"
+
+
+
+file = open("index.html", "w")
+file.write(index_html.format(items))
+file.close()
+
+exit()
