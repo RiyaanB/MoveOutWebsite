@@ -25,12 +25,12 @@ id,item,selling
 23,(sold) Plush Bath Rug 1,$10
 24,Plush Bath Rug 2,$10
 25,Under the Sink Dustbin,$30
-26,Shoe Rack with Cushion,$30
+26,(sold) Shoe Rack with Cushion,$30
 27,Side Table 1,$15
 28,Side Table 2,$15
 29,Bar Stool 1,$15
 30,Bar Stool 2,$15
-31,Lamp with Shelves,$15
+31,(sold) Lamp with Shelves,$15
 32,Closet Shelf,$15
 33,Smart Wifi Plugs x2 (Alexa/Google),$15
 35,Conair Hairdryer (new),$15
@@ -38,7 +38,7 @@ id,item,selling
 37,Simple Armless Chair,$15
 38,(sold) Knife Set,$25
 39,Pots and Pans,$25
-40,Shelf with Compartments,$20
+40,(sold) Shelf with Compartments,$20
 41,Regular Pillows x2,$10
 44,Big Pillows x2,$10
 42,Canvas Mountain Wall Art,$10
@@ -52,13 +52,13 @@ id,item,selling
 50,Power Extension 1,$5
 51,Power Extension 2,$5
 52,Bulbs x4,$15
-53,Whiteboard + Markers,$15
+53,(sold) Whiteboard + Markers,$15
 54,Water Filter Brita,$15
 55,Cool Bar Stool,$15
 56,Landscape Painting,$15
 57,(sold) Coffee Maker,$10
 58,Outdoor Weatherproof Rug,$10
-59,Big Stone Jar,$10
+59,(sold) Big Stone Jar,$10
 96,(sold) Small Stone Jar,$4
 60,Wooden Entry Counter,$10
 61,Digital Clock,$5
@@ -82,7 +82,7 @@ id,item,selling
 117,(sold) Toaster,$5
 118,Cutlery Sorter,$5
 119,Can Opener,$2
-120,Fruit Basket,$3
+120,(sold) Fruit Basket,$3
 82,Chair Raisers,$5
 83,Ironing Board + Steam Iron,$10
 84,Glasses Set,$5
@@ -95,13 +95,13 @@ id,item,selling
 91,Whiskey Ice Cube Tray,$5
 92,Revolving Party Lights,$5
 93,Wooden Chopping Board,$5
-94,Really Long Extension Cords,$5
-95,Extension Cord,$4
+94,(sold) Really Long Extension Cord,$5
+95,Really long Extension Cord,$4
 97,Storage Containers,$4
 98,Tongs,$4
 99,Under Desk Bin 1,$2
 100,Under Desk Bin 2,$2
-101,Laundry Basket,$2
+101,(sold) Laundry Basket,$2
 102,(sold) Cleaning Broom,$2
 103,Paper Towel Stand,$3
 104,Peeler,$3
@@ -112,7 +112,7 @@ id,item,selling
 109,Plush Pillow,$1
 110,Pens/Pencil,$1
 111,(one left) Olive Oil Bottle,$1
-112,Corkscrew,$1
+112,Corkscrew,$2
 113,Tall Cups,$1
 114,Measuring Cups,$1
 115,(sold) Metal Ashtray,$1
