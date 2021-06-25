@@ -33,7 +33,6 @@ id,item,selling
 31,Lamp with Shelves,$15
 32,Closet Shelf,$15
 33,Smart Wifi Plugs (Alexa/Google),$15
-34,Dumbells 10lb x2,$15
 35,Conair Hairdryer,$15
 36,Wooden Shoe Rack,$15
 37,Simple Armless Chair,$15
@@ -47,6 +46,7 @@ id,item,selling
 45,Hangers x30,$10
 46,Floor Lamp 1,$5
 47,Floor Lamp 2,$5
+116,Wine and Beer Glasses,$10
 48,Cracking the Coding Interview Book,$10
 49,Scented Candles x6,$10
 50,Power Extension 1,$5
@@ -61,19 +61,16 @@ id,item,selling
 59,Big Stone Jar,$10
 60,Wooden Entry Counter,$10
 61,Digital Clock,$5
-62,Rechargeable Wall Light,$5
 63,Portable Lamp,$5
 64,Digital Weighing Scale,$5
-65,Big Power Extension,$5
 66,Mirrors x3,$5
 67,Plastic Drawer Chest,$5
 68,Toilet Rug,$5
-69,Shower Curtain,$5
+69,Shower Curtain + Hooks,$8
 70,Grey Runner Rug,$5
 71,Belt Hanger,$4
 72,Headphone Holder,$3
-73,Shower Curtain Hooks,$3
-74,Hand Towel,$3
+74,Hand Towel + Basket,$3
 75,Closet Organizer,$3
 76,Workout Bands,$3
 77,Triple Power Outlets,$3
@@ -81,6 +78,10 @@ id,item,selling
 79,Vase,$3
 80,Mouse Pad ,$3
 81,Extension Cord with USB,$3
+117,Toaster,$5
+118,Cutlery Sorter,$5
+119,Can Opener,$2
+120,Fruit Basket,$3
 82,Chair Raisers,$5
 83,Ironing Board + Steam Iron,$5
 84,Glasses Set,$5
