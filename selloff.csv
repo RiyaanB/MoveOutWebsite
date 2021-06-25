@@ -2,51 +2,51 @@ id,item,selling
 0,MattressFirm Queen Mattres,$300
 1,Dining Table and Chair Set,$300
 2,Bar Cabinet,$150
-3,Gaming Desk Chair,$130
+3,Gaming Desk Chair (extends fully with leg cushion),$130
 4,Queen Bed Stand/Frame,$100
-5,L-shaped Desk,$100
-6,Monitor + HDMI,$100
-7,Outdoors Chairs + Side Table,$100
-8,Outdoor Weatherproof Heater 1,$50
-9,Outdoor Weatherproof Heater 2,$50
+5,L-shaped Desk with Shelves,$100
+6,Monitor (can make vertical) + HDMI,$100
+7,Outdoors Chairs + Side Table (weatherproof),$100
+8,Outdoor Weatherproof Heater 1 (up to 1500W),$50
+9,Outdoor Weatherproof Heater 2 (up to 1500W),$50
 10,Simple and Firm Desk,$50
-11,Guitar + Guitar Stand,$50
+11,Guitar + Guitar Stand + Pick,$50
 12,Poker Set,$40
 13,Codenames,$40
 14,Netgear Nighthawk Giganet Router,$80
-15,Wooden Night Stand,$40
+15,Vintage Wooden Night Stand,$40
 16,Runner Rug,$40
 17,Instant Pot,$60
-18,Room Heater 1,$15
-19,Room Heater 2,$15
+18,Room Heater 1 (up to 1500W),$15
+19,Room Heater 2 (up to 1500W),$15
 20,TV Stand,$55
-21,Electric Grill,$50
+21,Electric Grill (dishwasher safe),$50
 22,Triangle Wall Shelves,$25
-23,Bath Rug 1,$10
-24,Bath Rug 2,$10
+23,Plush Bath Rug 1,$10
+24,Plush Bath Rug 2,$10
 25,Under the Sink Dustbin,$30
-26,Shoe Rack,$30
+26,Shoe Rack with Cushion,$30
 27,Side Table 1,$15
 28,Side Table 2,$15
 29,Bar Stool 1,$15
 30,Bar Stool 2,$15
 31,Lamp with Shelves,$15
 32,Closet Shelf,$15
-33,Smart Wifi Plugs (Alexa/Google),$15
-34,Dumbells 10lb x2,$15
-35,Conair Hairdryer,$15
+33,Smart Wifi Plugs x2 (Alexa/Google),$15
+35,Conair Hairdryer (new),$15
 36,Wooden Shoe Rack,$15
 37,Simple Armless Chair,$15
 38,Knife Set,$25
 39,Pots and Pans,$25
 40,Shelf with Compartments,$20
 41,Regular Pillows x2,$10
+44,Big Pillows x2,$10
 42,Canvas Mountain Wall Art,$10
 43,Remote Control RGB Lights,$10
-44,Big Pillows x2,$10
 45,Hangers x30,$10
 46,Floor Lamp 1,$5
 47,Floor Lamp 2,$5
+116,Wine and Beer Glasses,$10
 48,Cracking the Coding Interview Book,$10
 49,Scented Candles x6,$10
 50,Power Extension 1,$5
@@ -59,21 +59,19 @@ id,item,selling
 57,Coffee Maker,$10
 58,Outdoor Weatherproof Rug,$10
 59,Big Stone Jar,$10
+96,Small Stone Jar,$4
 60,Wooden Entry Counter,$10
 61,Digital Clock,$5
-62,Rechargeable Wall Light,$5
 63,Portable Lamp,$5
 64,Digital Weighing Scale,$5
-65,Big Power Extension,$5
 66,Mirrors x3,$5
 67,Plastic Drawer Chest,$5
 68,Toilet Rug,$5
-69,Shower Curtain,$5
+69,Shower Curtain + Hooks,$8
 70,Grey Runner Rug,$5
 71,Belt Hanger,$4
 72,Headphone Holder,$3
-73,Shower Curtain Hooks,$3
-74,Hand Towel,$3
+74,Hand Towel + Basket,$3
 75,Closet Organizer,$3
 76,Workout Bands,$3
 77,Triple Power Outlets,$3
@@ -81,12 +79,16 @@ id,item,selling
 79,Vase,$3
 80,Mouse Pad ,$3
 81,Extension Cord with USB,$3
+117,Toaster,$5
+118,Cutlery Sorter,$5
+119,Can Opener,$2
+120,Fruit Basket,$3
 82,Chair Raisers,$5
-83,Ironing Board + Steam Iron,$5
+83,Ironing Board + Steam Iron,$10
 84,Glasses Set,$5
 85,Floor Lamp 3,$5
 86,Dishes Set,$5
-87,Oven Tray,$5
+87,Oven Tray + Paper,$5
 88,Mirror Decor,$5
 89,Chopping Board,$5
 90,Butter Box + Butter Knife,$5
@@ -95,7 +97,6 @@ id,item,selling
 93,Wooden Chopping Board,$5
 94,Really Long Extension Cords,$5
 95,Extension Cord,$4
-96,Small Stone Jar,$4
 97,Storage Containers,$4
 98,Tongs,$4
 99,Under Desk Bin 1,$2
