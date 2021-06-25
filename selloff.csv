@@ -2,7 +2,7 @@ id,item,selling
 0,MattressFirm Queen Mattres,$190
 1,Dining Table and Chair Set,$300
 2,Bar Cabinet,$150
-3,Gaming Desk Chair (extends fully with leg cushion),$130
+3,(sold) Gaming Desk Chair (extends fully with leg cushion),$130
 4,Queen Bed Stand/Frame,$100
 5,(sold) L-shaped Desk with Shelves,$100
 6,Monitor (can make vertical) + HDMI,$100
@@ -16,13 +16,13 @@ id,item,selling
 14,Netgear Nighthawk Giganet Router,$80
 15,Vintage Wooden Night Stand,$40
 16,Runner Rug,$40
-17,Instant Pot,$60
+17,(sold) Instant Pot,$45
 18,Room Heater 1 (up to 1500W),$15
 19,Room Heater 2 (up to 1500W),$15
 20,TV Stand,$55
 21,Electric Grill (dishwasher safe),$50
 22,(sold) Triangle Wall Shelves,$25
-23,Plush Bath Rug 1,$10
+23,(sold) Plush Bath Rug 1,$10
 24,Plush Bath Rug 2,$10
 25,Under the Sink Dustbin,$30
 26,Shoe Rack with Cushion,$30
@@ -56,10 +56,10 @@ id,item,selling
 54,Water Filter Brita,$15
 55,Cool Bar Stool,$15
 56,Landscape Painting,$15
-57,Coffee Maker,$10
+57,(sold) Coffee Maker,$10
 58,Outdoor Weatherproof Rug,$10
 59,Big Stone Jar,$10
-96,Small Stone Jar,$4
+96,(sold) Small Stone Jar,$4
 60,Wooden Entry Counter,$10
 61,Digital Clock,$5
 63,Portable Lamp,$5
@@ -67,8 +67,8 @@ id,item,selling
 66,Mirrors x3,$5
 67,Plastic Drawer Chest,$5
 68,Toilet Rug,$5
-69,Shower Curtain + Hooks,$8
-70,Grey Runner Rug,$5
+69,(sold) Shower Curtain + Hooks,$8
+70,(sold) Grey Runner Rug,$5
 71,Belt Hanger,$4
 72,Headphone Holder,$3
 74,Hand Towel + Basket,$3
