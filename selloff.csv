@@ -36,7 +36,7 @@ id,item,selling
 35,Conair Hairdryer (new),$15
 36,Wooden Shoe Rack,$15
 37,Simple Armless Chair,$15
-38,Knife Set,$25
+38,(sold) Knife Set,$25
 39,Pots and Pans,$25
 40,Shelf with Compartments,$20
 41,Regular Pillows x2,$10
@@ -46,9 +46,9 @@ id,item,selling
 45,Hangers x30,$10
 46,Floor Lamp 1,$5
 47,Floor Lamp 2,$5
-116,Wine and Beer Glasses,$10
+116,(sold) Wine and Beer Glasses,$10
 48,Cracking the Coding Interview Book,$10
-49,Scented Candles x6,$10
+49,(sold) Scented Candles x6,$10
 50,Power Extension 1,$5
 51,Power Extension 2,$5
 52,Bulbs x4,$15
@@ -79,7 +79,7 @@ id,item,selling
 79,Vase,$3
 80,Mouse Pad ,$3
 81,Extension Cord with USB,$3
-117,Toaster,$5
+117,(sold) Toaster,$5
 118,Cutlery Sorter,$5
 119,Can Opener,$2
 120,Fruit Basket,$3
@@ -111,8 +111,8 @@ id,item,selling
 108,Strainers x2,$2
 109,Plush Pillow,$1
 110,Pens/Pencil,$1
-111,Olive Oil Bottle,$1
+111,(one left) Olive Oil Bottle,$1
 112,Corkscrew,$1
 113,Tall Cups,$1
 114,Measuring Cups,$1
-115,Metal Ashtray,$1
+115,(sold) Metal Ashtray,$1
