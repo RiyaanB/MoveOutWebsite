@@ -4,13 +4,13 @@ id,item,selling
 2,Bar Cabinet,$150
 3,Gaming Desk Chair (extends fully with leg cushion),$130
 4,Queen Bed Stand/Frame,$100
-5,L-shaped Desk with Shelves,$100
+5,(sold) L-shaped Desk with Shelves,$100
 6,Monitor (can make vertical) + HDMI,$100
 7,Outdoors Chairs + Side Table (weatherproof),$100
 8,Outdoor Weatherproof Heater 1 (up to 1500W),$50
 9,Outdoor Weatherproof Heater 2 (up to 1500W),$50
 10,Simple and Firm Desk,$50
-11,Guitar + Guitar Stand + Pick,$50
+11,Guitar + Guitar Stand + Pick,$60
 12,Poker Set,$40
 13,Codenames,$40
 14,Netgear Nighthawk Giganet Router,$80
@@ -21,7 +21,7 @@ id,item,selling
 19,Room Heater 2 (up to 1500W),$15
 20,TV Stand,$55
 21,Electric Grill (dishwasher safe),$50
-22,Triangle Wall Shelves,$25
+22,(sold) Triangle Wall Shelves,$25
 23,Plush Bath Rug 1,$10
 24,Plush Bath Rug 2,$10
 25,Under the Sink Dustbin,$30
@@ -102,10 +102,10 @@ id,item,selling
 99,Under Desk Bin 1,$2
 100,Under Desk Bin 2,$2
 101,Laundry Basket,$2
-102,Cleaning Broom,$2
+102,(sold) Cleaning Broom,$2
 103,Paper Towel Stand,$3
 104,Peeler,$3
-105,Broom,$3
+105,Broomstick + dustpan,$4
 106,Coasters,$3
 107,Garlic Press,$2
 108,Strainers x2,$2
