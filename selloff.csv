@@ -32,8 +32,13 @@ id,item,selling
 30,Bar Stool 2,$15
 31,Lamp with Shelves,$15
 32,Closet Shelf,$15
+<<<<<<< HEAD
 33,Smart Wifi Plugs x2 (Alexa/Google),$15
 35,Conair Hairdryer (new),$15
+=======
+33,Smart Wifi Plugs (Alexa/Google),$15
+35,Conair Hairdryer,$15
+>>>>>>> 3613d95c558b3a0f88fc448a0ad9e4e2227eb9ab
 36,Wooden Shoe Rack,$15
 37,Simple Armless Chair,$15
 38,Knife Set,$25
