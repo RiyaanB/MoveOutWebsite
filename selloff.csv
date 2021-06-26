@@ -28,8 +28,8 @@ id,item,selling
 26,(sold) Shoe Rack with Cushion,$30
 27,(sold) Side Table 1,$15
 28,(sold) Side Table 2,$15
-29,Bar Stool 1,$15
-30,Bar Stool 2,$15
+29,(sold) Bar Stool 1,$15
+30,(sold) Bar Stool 2,$15
 31,(sold) Lamp with Shelves,$15
 32,Closet Shelf,$15
 33,Smart Wifi Plugs x2 (Alexa/Google),$15
@@ -63,7 +63,7 @@ id,item,selling
 60,Wooden Entry Counter,$10
 61,Digital Clock,$5
 63,Portable Lamp,$5
-64,Digital Weighing Scale,$5
+64,(sold) Digital Weighing Scale,$5
 66,Mirrors x2,$5
 67,Plastic Drawer Chest,$5
 68,Toilet Rug,$5
