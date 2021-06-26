@@ -1,7 +1,7 @@
 id,item,selling
 0,MattressFirm Queen Mattres,$190
-1,Dining Table and Chair Set,$300
-2,Bar Cabinet,$150
+1,Dining Table and Chair Set,$200
+2,Bar Cabinet,$100
 3,(sold) Gaming Desk Chair (extends fully with leg cushion),$130
 4,Queen Bed Stand/Frame,$100
 5,(sold) L-shaped Desk with Shelves,$100
@@ -9,7 +9,7 @@ id,item,selling
 7,Outdoors Chairs + Side Table (weatherproof),$100
 8,Outdoor Weatherproof Heater 1 (up to 1500W),$50
 9,Outdoor Weatherproof Heater 2 (up to 1500W),$50
-10,Simple and Firm Desk,$50
+10,Simple and Firm Desk,$40
 11,(sold) Guitar + Guitar Stand + Pick,$60
 12,Poker Set,$40
 13,Codenames,$40
@@ -20,7 +20,7 @@ id,item,selling
 18,Room Heater 1 (up to 1500W),$15
 19,Room Heater 2 (up to 1500W),$15
 20,TV Stand,$55
-21,Electric Grill (dishwasher safe),$50
+21,Electric Grill (dishwasher safe),$40
 22,(sold) Triangle Wall Shelves,$25
 23,(sold) Plush Bath Rug 1,$10
 24,Plush Bath Rug 2,$10
