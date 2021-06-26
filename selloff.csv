@@ -3,12 +3,12 @@ id,item,selling
 1,Dining Table and Chair Set,$200
 2,Bar Cabinet,$100
 3,(sold) Gaming Desk Chair (extends fully with leg cushion),$130
-4,Queen Bed Stand/Frame,$100
+4,Queen Bed Stand/Frame,$80
 5,(sold) L-shaped Desk with Shelves,$100
-6,Monitor (can make vertical) + HDMI,$100
+6,(sold) Monitor (can make vertical) + HDMI,$90
 7,Outdoors Chairs + Side Table (weatherproof),$100
-8,Outdoor Weatherproof Heater 1 (up to 1500W),$50
-9,Outdoor Weatherproof Heater 2 (up to 1500W),$50
+8,Outdoor Weatherproof Heater 1 (up to 1500W),$40
+9,Outdoor Weatherproof Heater 2 (up to 1500W),$40
 10,Simple and Firm Desk,$40
 11,(sold) Guitar + Guitar Stand + Pick,$60
 12,Poker Set,$40
@@ -19,11 +19,11 @@ id,item,selling
 17,(sold) Instant Pot,$45
 18,Room Heater 1 (up to 1500W),$15
 19,Room Heater 2 (up to 1500W),$15
-20,TV Stand,$55
+20,TV Stand,$50
 21,Electric Grill (dishwasher safe),$40
 22,(sold) Triangle Wall Shelves,$25
 23,(sold) Plush Bath Rug 1,$10
-24,Plush Bath Rug 2,$10
+24,Plush Bath Rug 2,$7
 25,Under the Sink Dustbin,$30
 26,(sold) Shoe Rack with Cushion,$30
 27,(sold) Side Table 1,$15
@@ -43,14 +43,14 @@ id,item,selling
 44,Big Pillows x2,$10
 42,(sold) Canvas Mountain Wall Art,$10
 43,Remote Control RGB Lights,$10
-45,Hangers x30,$10
+45,Hangers x30,$5
 46,Floor Lamp 1,$5
 47,Floor Lamp 2,$5
 116,(sold) Wine and Beer Glasses,$10
-48,Cracking the Coding Interview Book,$10
+48,(sold) Cracking the Coding Interview Book,$10
 49,(sold) Scented Candles x6,$10
 50,(sold) Power Extension 1,$5
-51,Power Extension 2,$5
+51,(sold) Power Extension 2,$5
 52,Bulbs x4,$15
 53,(sold) Whiteboard + Markers,$15
 54,(sold) Water Filter Brita,$15
@@ -61,11 +61,11 @@ id,item,selling
 59,(sold) Big Stone Jar,$10
 96,(sold) Small Stone Jar,$4
 60,Wooden Entry Counter,$10
-61,Digital Clock,$5
+61,(sold) Digital Clock,$5
 63,Portable Lamp,$5
 64,(sold) Digital Weighing Scale,$5
 66,Mirrors x2,$5
-67,Plastic Drawer Chest,$5
+67,(sold) Plastic Drawer Chest,$5
 68,Toilet Rug,$5
 69,(sold) Shower Curtain + Hooks,$8
 70,(sold) Grey Runner Rug,$5
@@ -87,7 +87,7 @@ id,item,selling
 83,(sold) Ironing Board + Steam Iron,$10
 84,Glasses Set,$5
 85,Floor Lamp 3,$5
-86,Dishes Set,$5
+86,(sold) Dishes Set,$5
 87,Oven Tray + Paper,$5
 88,Mirror Decor,$5
 89,Chopping Board,$5
@@ -98,13 +98,13 @@ id,item,selling
 94,(sold) Really Long Extension Cord,$5
 95,Really long Extension Cord,$4
 97,Storage Containers,$4
-98,Tongs,$4
+98,Tongs x2,$4
 99,Under Desk Bin 1,$2
-100,Under Desk Bin 2,$2
+100,(sold) Under Desk Bin 2,$2
 101,(sold) Laundry Basket,$2
 102,(sold) Cleaning Broom,$2
 103,(sold) Paper Towel Stand,$3
-104,Peeler,$3
+104,(sold) Peeler,$3
 105,(sold) Broomstick + dustpan,$4
 106,(sold) Coasters,$3
 107,(sold) Garlic Press,$2
