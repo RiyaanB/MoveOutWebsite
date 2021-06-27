@@ -12,9 +12,9 @@ id,item,selling
 10,Simple and Firm Desk,$40
 11,(sold) Guitar + Guitar Stand + Pick,$60
 12,Poker Set,$40
-13,Codenames,$40
+13,Codenames x2,$40
 14,Netgear Nighthawk Giganet Router,$80
-15,Vintage Wooden Night Stand,$30
+15,(sold) Vintage Wooden Night Stand,$30
 16,Runner Rug,$40
 17,(sold) Instant Pot,$45
 18,Room Heater 1 (up to 1500W),$15
@@ -31,9 +31,9 @@ id,item,selling
 29,(sold) Bar Stool 1,$15
 30,(sold) Bar Stool 2,$15
 31,(sold) Lamp with Shelves,$15
-32,Closet Shelf,$15
+32,(sold) Closet Shelf,$15
 33,Smart Wifi Plugs x2 (Alexa/Google),$15
-35,Conair Hairdryer (new),$15
+35,(sold) Conair Hairdryer (new),$15
 36,(sold) Wooden Shoe Rack,$15
 37,Simple Armless Chair,$15
 38,(sold) Knife Set,$25
@@ -55,7 +55,7 @@ id,item,selling
 53,(sold) Whiteboard + Markers,$15
 54,(sold) Water Filter Brita,$15
 55,Cool Bar Stool,$15
-56,Landscape Painting,$15
+56,(sold) Landscape Painting,$15
 57,(sold) Coffee Maker,$10
 58,Outdoor Weatherproof Rug,$10
 59,(sold) Big Stone Jar,$10
@@ -81,7 +81,7 @@ id,item,selling
 81,Extension Cord with USB,$3
 117,(sold) Toaster,$5
 118,Cutlery Sorter,$5
-119,Can Opener,$2
+119,(sold) Can Opener,$2
 120,(sold) Fruit Basket,$3
 82,Chair Raisers,$5
 83,(sold) Ironing Board + Steam Iron,$10
@@ -89,12 +89,12 @@ id,item,selling
 85,Floor Lamp 3,$5
 86,(sold) Dishes Set,$5
 87,Oven Tray + Paper,$5
-88,Mirror Decor,$5
+88,Mirror Decor,$10
 89,Chopping Board,$5
 90,Butter Box + Butter Knife,$5
 91,Whiskey Ice Cube Tray,$5
 92,Revolving Party Lights,$5
-93,Wooden Chopping Board,$5
+93,Chopping Board,$5
 94,(sold) Really Long Extension Cord,$5
 95,Really long Extension Cord,$4
 97,Storage Containers,$4
@@ -108,7 +108,7 @@ id,item,selling
 105,(sold) Broomstick + dustpan,$4
 106,(sold) Coasters,$3
 107,(sold) Garlic Press,$2
-108,Strainers x2,$2
+108,(sold) Strainers x2,$2
 109,Plush Pillow,$1
 110,Pens/Pencil,$1
 111,(sold) Olive Oil Bottle,$1
