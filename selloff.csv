@@ -44,8 +44,8 @@ id,item,selling
 42,(sold) Canvas Mountain Wall Art,$10
 43,Remote Control RGB Lights,$10
 45,Hangers x30,$5
-46,Floor Lamp 1,$5
-47,Floor Lamp 2,$5
+46,(sold) Floor Lamp 1,$5
+47,(sold) Floor Lamp 2,$5
 116,(sold) Wine and Beer Glasses,$10
 48,(sold) Cracking the Coding Interview Book,$10
 49,(sold) Scented Candles x6,$10
@@ -86,7 +86,7 @@ id,item,selling
 82,Chair Raisers,$5
 83,(sold) Ironing Board + Steam Iron,$10
 84,Glasses Set,$5
-85,Floor Lamp 3,$5
+85,(sold) Floor Lamp 3,$5
 86,(sold) Dishes Set,$5
 87,Oven Tray + Paper,$5
 88,Mirror Decor,$10
