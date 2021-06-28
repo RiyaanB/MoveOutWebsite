@@ -1,21 +1,21 @@
 id,item,selling
 0,MattressFirm Queen Mattres,$190
 1,Dining Table and Chair Set,$200
-2,Bar Cabinet,$100
+2,(sold) Bar Cabinet,$100
 3,(sold) Gaming Desk Chair (extends fully with leg cushion),$130
-4,Queen Bed Stand/Frame,$80
+4,(sold) Queen Bed Stand/Frame,$80
 5,(sold) L-shaped Desk with Shelves,$100
 6,(sold) Monitor (can make vertical) + HDMI,$90
 7,(sold) Outdoors Chairs + Side Table (weatherproof),$100
 8,Outdoor Weatherproof Heater 1 (up to 1500W),$40
-9,Outdoor Weatherproof Heater 2 (up to 1500W),$40
+9,(sold) Outdoor Weatherproof Heater 2 (up to 1500W),$40
 10,Simple and Firm Desk,$40
 11,(sold) Guitar + Guitar Stand + Pick,$60
 12,Poker Set,$40
-13,Codenames x2,$40
+13,Codenames x1,$20
 14,Netgear Nighthawk Giganet Router,$80
 15,(sold) Vintage Wooden Night Stand,$30
-16,Runner Rug,$40
+16,(sold) Runner Rug,$40
 17,(sold) Instant Pot,$45
 18,Room Heater 1 (up to 1500W),$15
 19,Room Heater 2 (up to 1500W),$15
@@ -54,7 +54,7 @@ id,item,selling
 52,Bulbs x4,$15
 53,(sold) Whiteboard + Markers,$15
 54,(sold) Water Filter Brita,$15
-55,Cool Bar Stool,$15
+55,(sold) Cool Bar Stool,$15
 56,(sold) Landscape Painting,$15
 57,(sold) Coffee Maker,$10
 58,Outdoor Weatherproof Rug,$10
@@ -64,7 +64,7 @@ id,item,selling
 61,(sold) Digital Clock,$5
 63,Portable Lamp,$5
 64,(sold) Digital Weighing Scale,$5
-66,Mirrors x2,$5
+66,(sold) Mirrors x2,$5
 67,(sold) Plastic Drawer Chest,$5
 68,Toilet Rug,$5
 69,(sold) Shower Curtain + Hooks,$8
@@ -93,7 +93,7 @@ id,item,selling
 89,Chopping Board,$5
 90,Butter Box + Butter Knife,$5
 91,Whiskey Ice Cube Tray,$5
-92,Revolving Party Lights,$5
+92,(sold) Revolving Party Lights,$5
 93,Chopping Board,$5
 94,(sold) Really Long Extension Cord,$5
 95,Really long Extension Cord,$4
